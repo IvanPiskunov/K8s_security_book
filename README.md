@@ -1,7 +1,7 @@
 # Kubernetes security. Guide for beginners from zero to hero [e-book]
 _DevSecOps and Cloud security series. E-book, self-published edition by Ivan Piskunov_
 
-![](3D_cover.png)
+![](3D_cover_photo-resizer.png)
 
 ## About the book
 In this comprehensive e-book, we’re going to deep dive into the Kubernetes security. This book addressed for everyone system engineers and security expert who involved in developer’s software process based on microservices architecture and cloud infrastructure.
