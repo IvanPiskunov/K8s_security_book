@@ -18,5 +18,6 @@ Ivan Piskunov, cybersecurity expert who have got more than 10 years of industry 
 * [CyberSecBastion](https://t.me/CyberSecBastion)
 
 ## Feedback
+If you found any errors, mismatches in this book, please notify us at e-mail: x1.ivan.piskunov@gmail.com
 
 # Resources list
