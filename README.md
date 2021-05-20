@@ -20,7 +20,8 @@ Ivan Piskunov, cybersecurity expert who have got more than 10 years of industry 
 ## Feedback
 If you found any errors, mismatches in this book, please notify us at e-mail: x1.ivan.piskunov@gmail.com
 
-Also you can follow me
+Also you can follow me:
+
 [Twitter](https://twitter.com/Ivanpiskunov14)
 
 [LinkedIn](https://linkedin.com/in/ivan-piskunov)
