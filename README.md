@@ -32,7 +32,11 @@ Also you can follow me:
 # Resources list
 
 [Security tools and scaners]()
+
 [Video]()
+
 [Official documentation and best practices]()
+
 [Organizarion]()
+
 
