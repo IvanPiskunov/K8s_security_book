@@ -19,5 +19,10 @@ Ivan Piskunov, cybersecurity expert who have got more than 10 years of industry 
 
 ## Feedback
 If you found any errors, mismatches in this book, please notify us at e-mail: x1.ivan.piskunov@gmail.com
+[Twitter](https://twitter.com/Ivanpiskunov14)
+[LinkedIn](https://linkedin.com/in/ivan-piskunov)
 
 # Resources list
+[The official web page of self-published edition](https://gum.co/k8security)
+
+
