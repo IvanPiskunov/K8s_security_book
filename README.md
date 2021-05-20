@@ -26,7 +26,13 @@ Also you can follow me:
 
 [LinkedIn](https://linkedin.com/in/ivan-piskunov)
 
-# Resources list
+## Get the book
 [The official web page of self-published edition](https://gum.co/k8security)
 
+# Resources list
+
+[Security tools and scaners]()
+[Video]()
+[Official documentation and best practices]()
+[Organizarion]()
 
