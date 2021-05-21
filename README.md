@@ -14,7 +14,7 @@ From this book you will find an overview of attack surface, an analysis of main 
 Ivan Piskunov, cybersecurity expert who have got more than 10 years of industry experience. Ivan has a Master's degree in Computer Science in cybersecurity. Multiple speaker of various public security events, author and lecturer of training courses on Linux security and technical audit of IT infrastructure. Currently holds the position of DevSecOps in a software development company.
 
 ### Bio of author
-[Ivan Piskunov](Author.md)
+[Ivan Piskunov](About author.md)
 
 **You can read some of the author's other materials here:**
 * [HackMag e-zine](https://hackmag.com/author/g14vano/)
